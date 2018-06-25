@@ -22,4 +22,3 @@ function inc(n){
 function inc(n){
   return --n
 }
-
