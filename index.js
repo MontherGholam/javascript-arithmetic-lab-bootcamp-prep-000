@@ -3,7 +3,7 @@ function add(a,b){
   return a+b
 }
 //Second
-function subtracts(a,b){
+function subtract(a,b){
   return a-b
 }
 //Third
