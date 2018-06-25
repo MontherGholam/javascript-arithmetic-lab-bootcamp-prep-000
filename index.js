@@ -16,5 +16,5 @@ function divide(a,b){
 }
 //sixth
 function inc(559){
-  return 559++
+  return ++559
 }
