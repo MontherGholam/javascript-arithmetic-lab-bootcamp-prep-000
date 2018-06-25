@@ -22,3 +22,7 @@ function inc(n){
 function dec(n){
   return --n
 }
+//eighth
+function makeInt(n){
+  return parseInt(n)
+}
