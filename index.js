@@ -15,6 +15,6 @@ function divide(a,b){
   return a/b
 }
 //sixth
-function inc(n=559){
+function inc(var n=559){
   return n++
 }
