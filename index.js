@@ -19,6 +19,6 @@ function inc(n){
   return ++n
 }
 //seventh
-function inc(n){
+function dec(n){
   return --n
 }
